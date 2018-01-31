@@ -1,0 +1,12 @@
+C:\Users\Tony Beno-Holden\C#\Pos1\Pos1\bin\Debug\netcoreapp2.0\Pos1.deps.json
+C:\Users\Tony Beno-Holden\C#\Pos1\Pos1\bin\Debug\netcoreapp2.0\Pos1.runtimeconfig.json
+C:\Users\Tony Beno-Holden\C#\Pos1\Pos1\bin\Debug\netcoreapp2.0\Pos1.runtimeconfig.dev.json
+C:\Users\Tony Beno-Holden\C#\Pos1\Pos1\bin\Debug\netcoreapp2.0\Pos1.dll
+C:\Users\Tony Beno-Holden\C#\Pos1\Pos1\bin\Debug\netcoreapp2.0\Pos1.pdb
+C:\Users\Tony Beno-Holden\C#\Pos1\Pos1\obj\Debug\netcoreapp2.0\Pos1.csprojResolveAssemblyReference.cache
+C:\Users\Tony Beno-Holden\C#\Pos1\Pos1\obj\Debug\netcoreapp2.0\Pos1.csproj.CoreCompileInputs.cache
+C:\Users\Tony Beno-Holden\C#\Pos1\Pos1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Tony Beno-Holden\C#\Pos1\Pos1\obj\Debug\netcoreapp2.0\Pos1.AssemblyInfoInputs.cache
+C:\Users\Tony Beno-Holden\C#\Pos1\Pos1\obj\Debug\netcoreapp2.0\Pos1.AssemblyInfo.cs
+C:\Users\Tony Beno-Holden\C#\Pos1\Pos1\obj\Debug\netcoreapp2.0\Pos1.dll
+C:\Users\Tony Beno-Holden\C#\Pos1\Pos1\obj\Debug\netcoreapp2.0\Pos1.pdb
